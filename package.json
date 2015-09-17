@@ -1,0 +1,14 @@
+{
+  "name": "SoapServer",
+  "version": "1.0.0",
+  "description": "SoapServer",
+  "main": "prodAgent.js",
+  "author": {
+    "name": "liuwang",
+    "email": ""
+  },
+  "dependencies": {   
+    "express": "^4.9.5",
+    "soap": "^0.5.1"
+  }
+}
